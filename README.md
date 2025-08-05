@@ -1,7 +1,10 @@
 # Setup
 npm create@latest
+
 npm install
+
 node version should be latest one.
+
 ## Frontend view on port 5317:
 <img width="500" height="706" alt="image" src="https://github.com/user-attachments/assets/18054a6a-d3d8-45a1-88cf-7ab6479fbd08" />
 
